@@ -104,16 +104,4 @@
     </div>
 </div>
 
-<?php
-
-function doubleMe($num)
-{
-    echo $num * 2;
-}
-
-doubleMe(10);
-?>
-
-<?php get_footer();
-
-?>
+<?php get_footer();  ?>
